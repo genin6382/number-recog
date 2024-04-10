@@ -1,5 +1,7 @@
 Hand Gesture Recognition and Finger Counting
+
 Abstract:
+
 This Python script utilizes the MediaPipe library to perform hand detection and gesture recognition using a webcam feed. It detects the number of extended fingers in the detected hand and displays the count on the screen in real-time.
 
 Introduction:
