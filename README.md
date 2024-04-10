@@ -33,6 +33,10 @@ JASWANTH SRIDHAR-23011102077
 
 SHREYA NANDAGOPAL-23011102095
 
+CODE LINK:
+
+https://github.com/genin6382/number-recog
+
 
 Conclusion:
 In conclusion, the Hand Gesture Recognition and Finger Counting project showcases the effectiveness of using the MediaPipe library for real-time hand detection and gesture recognition tasks. The system's simplicity and accuracy make it suitable for integration into various projects and applications requiring hand gesture recognition and finger counting capabilities.
