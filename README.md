@@ -24,10 +24,15 @@ The Python script demonstrates accurate hand detection, gesture recognition, and
 AUTHORS/CO AUTHORS:
 
 VIDHU PRABHU-23011102115
+
 ADITYAA SS- 23011102079
+
 RAHUL RAGHAVENDRA- 23011102070
+
 JASWANTH SRIDHAR-23011102077
+
 SHREYA NANDAGOPAL-23011102095
+
 
 Conclusion:
 In conclusion, the Hand Gesture Recognition and Finger Counting project showcases the effectiveness of using the MediaPipe library for real-time hand detection and gesture recognition tasks. The system's simplicity and accuracy make it suitable for integration into various projects and applications requiring hand gesture recognition and finger counting capabilities.
